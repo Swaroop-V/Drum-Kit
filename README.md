@@ -1,1 +1,1 @@
-The images and sounds folder haven't been uploaded, so sounds cannot be played and images cannot be seen.
+The images and sounds folders have been uploaded, so sounds can be played and images can be seen.
