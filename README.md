@@ -41,10 +41,10 @@ A simple, interactive drum kit web application that allows users to play drum so
 
 💡 What I Learned 
 
-Handling DOM events in JavaScript
-Mapping keypresses to functions
-Playing audio with JavaScript
-Creating simple animations with CSS and JS
+1. Handling DOM events in JavaScript
+2. Mapping keypresses to functions
+3. Playing audio with JavaScript
+4. Creating simple animations with CSS and JS
 
 ---
 
